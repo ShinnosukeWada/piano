@@ -37,13 +37,13 @@ void DrawMain()
     DrawText("OYA NO COMMIT", -12*14/2, 0, kColorRed);
 
     DrawText("何て日だ！！！！",-12*14/2,-88,kColorBlue);
-    Sleep(0.5f)
+    Sleep(0.5f);
 
 
     DrawText("OYA NO COMMIT", -12*14/2, 0, kColorRed);
     
     DrawText("何て日だ！！！！",-12*14/2,-88,kColorBlue);
-    Sleep(0.5f)
+    Sleep(0.5f);
 
 }
 
